@@ -1,10 +1,11 @@
 # Selfhosted Services
 
-Here, I'll share the services and applications I host on my own servers. Self-hosting provides more control over my data and privacy.
+Here, I'll share the services and applications I host on my own servers.
+Self-hosting provides more control over my data and privacy.
 
 ## Services
 
-- **Cloudflare Tunnel**: [Link to Cloudflare Tunnel](https://www.cloudflare.com/tunnel/)
+- **Cloudflare Tunnel**: Public access for Vaultwarden and Whoogle-Search
 - **Vaultwarden**: [Link to Vaultwarden](https://github.com/dani-garcia/vaultwarden)
 - **Pihole 6**: [Link to Pi-hole](https://pi-hole.net/)
 - **Jellyfin**: [Link to Jellyfin](https://jellyfin.org/)
