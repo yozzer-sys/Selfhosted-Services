@@ -5,13 +5,14 @@ Self-hosting provides more control over my data and privacy.
 
 ## Data Backups
 
-To ensure the safety and availability of my self-hosted services and data, I follow the 5-4-2 backup strategy:
+To ensure the safety and availability of my self-hosted services and data, I follow the 6-4-3 backup strategy:
 
-- **5 Copies**: I have the original data, an external USB drive backup, an internal HDD backup on my NAS, a USB SSD backup on my NAS, and a cloud storage backup. This totals five copies of my data.
+- **6 Copies**: I have the original data, an external USB drive backup, an internal HDD backup on my NAS, a USB SSD backup on my NAS, and two cloud storage backups. This totals six copies of my data.
 
 - **4 Different Media**: My data is stored on four different types of media or devices, including the original data, an external USB drive, internal HDD, and USB SSD.
 
-- **2 Offsite Backups**: I have two offsite backups, the USB SSD backup and the cloud storage backup. These offsite backups help protect my data in case of physical disasters at my primary location.
+- **3 Offsite Backups**: I have three offsite backups, which include the USB SSD backup and the two cloud storage backups. These offsite backups help protect my data in case of physical disasters at my primary location.
+
 
 ## Services
 
