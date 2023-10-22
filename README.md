@@ -1,6 +1,6 @@
 # Selfhosted Services
 
-This repository contains a list of self-hosted services that you can set up and run on your own server. Self-hosting allows you to have more control over your data and privacy.
+Here, I'll share the services and applications I host on my own servers. Self-hosting provides more control over my data and privacy.
 
 ## Services
 
@@ -8,10 +8,14 @@ This repository contains a list of self-hosted services that you can set up and 
 - **Vaultwarden**: [Link to Vaultwarden](https://github.com/dani-garcia/vaultwarden)
 - **Pihole 6**: [Link to Pi-hole](https://pi-hole.net/)
 - **Jellyfin**: [Link to Jellyfin](https://jellyfin.org/)
+- **Plex**: [Link to Plex](https://www.plex.tv/)
+- **Sonarr**: [Link to Sonarr](https://sonarr.tv/)
+- **Radarr**: [Link to Radarr](https://radarr.video/)
+- **Synology Cloud**: [Link to Synology Cloud](https://www.synology.com/en-global/dsm/packages/Synology_Cloud)
 
 # Docker
 
-This section contains Docker containers that you can run to self-host various services and applications.
+I also use the following Docker containers to manage my servers:
 
 ## Containers
 
