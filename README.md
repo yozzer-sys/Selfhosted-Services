@@ -3,6 +3,16 @@
 Here, I'll share the services and applications I host on my own servers.
 Self-hosting provides more control over my data and privacy.
 
+## Data Backups
+
+To ensure the safety and availability of my self-hosted services and data, I follow the 3-2-1 backup strategy:
+
+- **3 Copies**: Keep three copies of your data, including the original data and two backups.
+
+- **2 Different Media**: Store your backups on at least two different types of media or devices to minimize the risk of data loss. For example, combine physical external drives and cloud storage.
+
+- **1 Offsite Backup**: Maintain at least one offsite backup to protect against physical disasters, such as fire or theft. Cloud storage is an excellent option for offsite backups.
+
 ## Services
 
 - **Cloudflare Tunnel**: Public access for Vaultwarden and Whoogle-Search
