@@ -11,7 +11,7 @@ To ensure the safety and availability of my self-hosted services and data, I fol
 
 - **4 Different Media**: My data is stored on four different types of media or devices, including the original data, an external USB drive, internal HDD, and USB SSD.
 
-- **2 Offsite Backups**: I have two offsite backups, the USB SSD backup and the cloud storage backup. These offsite backups help protect your data in case of physical disasters at your primary location.
+- **2 Offsite Backups**: I have two offsite backups, the USB SSD backup and the cloud storage backup. These offsite backups help protect my data in case of physical disasters at my primary location.
 
 ## Services
 
