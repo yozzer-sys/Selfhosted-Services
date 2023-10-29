@@ -24,6 +24,7 @@ This clarified 6-4-2 strategy, with encryption both on the backup side and withi
 - **Sonarr**: [Link to Sonarr](https://sonarr.tv/)
 - **Radarr**: [Link to Radarr](https://radarr.video/)
 - **Synology Cloud**: [Link to Synology Cloud](https://www.synology.com/en-global/dsm/packages/Synology_Cloud)
+- **OpenVPN over cloak**: Hosted on a KVM VPS [Link to cloak]((https://github.com/cbeuw/Cloak))
 
 # Docker
 
