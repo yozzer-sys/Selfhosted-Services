@@ -3,20 +3,20 @@
 Here, I'll share the services and applications I host on my own servers.
 Self-hosting provides more control over my data and privacy.
 
-## Data Backups
+## Comprehensive Data Backup Strategy (6-4-2 with Self-Managed Cloud Storage - RAID6)
+To ensure the safety and availability of my self-hosted services and data, I've implemented a comprehensive data backup strategy, emphasizing the 6-4-2 approach, further fortified with encryption:
 
-To ensure the safety and availability of my self-hosted services and data, I follow the 6-4-3 backup strategy:
+- **6 Copies for Resilience**: I maintain a total of six copies of my data, which include the original files, data mirrored through a NAS with RAID1, two additional copies on external USB drives, and two secure cloud storage backups. This redundancy ensures data resilience and accessibility.
 
-- **6 Copies**: I have the original data, an external USB drive backup, an internal HDD backup on my NAS, a USB SSD backup on my NAS, and two cloud storage backups. This totals six copies of my data.
+- **4 Types of Storage Media**: My data is distributed across four different types of storage media, encompassing the original files, an external USB drive, network-attached storage (NAS) with RAID1, and self-managed cloud storage with RAID6. This diversification minimizes the risk of data loss due to hardware failures.
 
-- **4 Different Media**: My data is stored on four different types of media or devices, including the original data, an external USB drive, internal HDD, and USB SSD.
+- **2 Offsite Safeguards with Encryption**: In addition to on-site redundancy, I secure two offsite backups, with data stored in self-managed cloud storage, which includes RAID6 for enhanced redundancy. Importantly, all offsite backups are encrypted to guarantee the utmost data security and confidentiality.
 
-- **3 Offsite Backups**: I have three offsite backups, which include the USB SSD backup and the two cloud storage backups. These offsite backups help protect my data in case of physical disasters at my primary location.
-
+This clarified 6-4-2 strategy, with encryption both on the backup side and within self-managed cloud storage with RAID6, is designed to ensure the preservation and accessibility of my self-hosted services and data while prioritizing the highest levels of data security and resilience.
 
 ## Services
 
-- **Cloudflare Tunnel**: Public access for Vaultwarden and Whoogle-Search
+- **Cloudflare Tunnel**: for Vaultwarden and Whoogle-Search
 - **Vaultwarden**: [Link to Vaultwarden](https://github.com/dani-garcia/vaultwarden)
 - **Pihole 6**: [Link to Pi-hole](https://pi-hole.net/)
 - **Jellyfin**: [Link to Jellyfin](https://jellyfin.org/)
