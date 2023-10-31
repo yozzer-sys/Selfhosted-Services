@@ -32,7 +32,7 @@ I also use the following Docker containers to manage my servers:
 
 ## Containers
 
-- **Gitea**: Where all my code is hosted [Gitea GitHub](https://github.com/go-gitea/gitea#gitea---git-with-a-cup-of-tea)
+- **Gitea**: Where all my code is hosted [Gitea GitHub](https://github.com/go-gitea)
 - **Portainer**: Web-based Docker management interface for managing your Docker containers. [Portainer GitHub](https://github.com/portainer/portainer)
 - **homarr**: Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr). [homarr GitHub](https://github.com/ajnart/homarr)
 - **immich**: Self-hosted photo and video backup solution directly from your mobile phone. [immich GitHub](https://github.com/immich-app/immich)
